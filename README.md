@@ -65,8 +65,7 @@ Este repositório contém um resumo prático e conceitual sobre a utilização d
 ## 📎 Link para o projeto original
 
 Repositório original do desafio:  
-https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone *(exemplo de formato e estrutura esperada)*
-
+https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone 
 ---
 
 Feito com 💙 por Leonardo - [GitHub](https://github.com/leozecs)
